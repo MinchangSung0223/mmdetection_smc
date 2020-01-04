@@ -20,4 +20,6 @@ https://drive.google.com/drive/folders/1YbPUQVTYw_slAvk_DchvRY-7B6rnSXP9
 mv /path/to/model.pth $MMDET_HOME/model.pth 
 ```
 ## RUN
+```bash
 python3 examples/maskrcnn_kinect_siammask.py 
+```
